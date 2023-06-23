@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yasin+Khan+Rabbi...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h2 align="center">A passionate web developer from Bangladesh</h2>
 
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> **MERN stack development**
@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/yasinkh97684346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinkh97684346" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasinrabbi908/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasinrabbi908/" height="30" width="40" /></a>
@@ -40,6 +40,7 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin2514&" alt="yasin2514" /></td>
  </tr>
  <tr>
-    <td><img align="center" src="https://komarev.com/ghpvc/?username=yasin2514&label=Profile%20views&color=0e75b6&style=flat" alt="yasin2514" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin2514&" alt="yasin2514" /></td>
  </tr>
 </table> 
+
