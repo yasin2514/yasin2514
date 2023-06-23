@@ -5,6 +5,7 @@
 </h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <div align="left">
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> **MERN stack development**
 
@@ -15,7 +16,6 @@
 - 📫 How to reach me **yasinkhanrabbi1999@gmail.com**
 
 - ⚡ Others Activities **I can play Cricket🏏**
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </div>
 
 
