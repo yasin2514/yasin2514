@@ -36,7 +36,7 @@
 
 <table align="center" border="2">
   <tr>
-    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin2514&show_icons=true&locale=en&layout=compact" alt="yasin2514" /></td>
+    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin2514&show_icons=true&locale=en&layout=en&theme=codeSTACKr&hide_border=true&layout=pie" alt="yasin2514" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin2514&" alt="yasin2514" /></td>
  </tr>
  <tr>
