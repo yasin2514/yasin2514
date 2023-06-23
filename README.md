@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CF05&width=435&lines=Hello,+There!+👋;I'm+Yasin+Khan+Rabbi...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> A passionate web developer from Bangladesh <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
