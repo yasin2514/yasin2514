@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://twitter.com/yasinkh97684346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinkh97684346" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasinrabbi908/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasinrabbi908/" height="30" width="40" /></a>
@@ -33,17 +33,8 @@
 <br>
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h2>
 <br>
-
-<table align="center" border="2">
-  <tr>
-    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin2514&show_icons=true&locale=en&layout=en&theme=codeSTACKr&hide_border=true&layout=pie" alt="yasin2514" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin2514&" alt="yasin2514" /></td>
- </tr>
- <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin2514&" alt="yasin2514" /></td>
- </tr>
-</table> 
-<table align="center" border="2">
+ 
+<table align="center" border="3">
   <tr>
     <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin2514&show_icons=true&locale=en&theme=codeSTACKr&hide_border=true&layout=pie" alt="yasin2514"/></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasin2514&show_icons=true&locale=en&theme=codeSTACKr&hide_border=true" alt="yasin2514" /></td>
