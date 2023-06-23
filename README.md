@@ -5,9 +5,6 @@
 </h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasin2514&label=Profile%20views&color=0e75b6&style=flat" alt="yasin2514" /> </p>
-
-<p align="left"> <a href="https://twitter.com/yasinkh97684346" target="blank"><img src="https://img.shields.io/twitter/follow/yasinkh97684346?logo=twitter&style=for-the-badge" alt="yasinkh97684346" /></a> </p>
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> **MERN stack development**
 
@@ -18,6 +15,8 @@
 - 📫 How to reach me **yasinkhanrabbi1999@gmail.com**
 
 - ⚡ Others Activities **I can play Cricket🏏**
+
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -36,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasin2514&show_icons=true&locale=en" alt="yasin2514" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin2514&" alt="yasin2514" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasin2514&label=Profile%20views&color=0e75b6&style=flat" alt="yasin2514" /> </p>
