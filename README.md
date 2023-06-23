@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue;">Hello 👋, I'm Yasin Khan Rabbi</h1>
+<h1 align="center" color="blue">Hello 👋, I'm Yasin Khan Rabbi</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasin2514&label=Profile%20views&color=0e75b6&style=flat" alt="yasin2514" /> </p>
