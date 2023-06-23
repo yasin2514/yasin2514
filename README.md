@@ -11,7 +11,7 @@
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20"> I’m currently learning **NEXTJS**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- <img src="https://media.tenor.com/cTGSLZC1QWEAAAAC/people-with-bunny-ears-joypixels.gif" alt="👯" height="20"> I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **yasinkhanrabbi1999@gmail.com**
 
