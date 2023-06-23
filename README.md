@@ -15,9 +15,9 @@
 - 📫 How to reach me **yasinkhanrabbi1999@gmail.com**
 
 - ⚡ Others Activities **I can play Cricket🏏**
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </div>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <br>
 
