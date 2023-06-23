@@ -3,10 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yasin+Khan+Rabbi...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-<h3 align="left">A passionate web developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
-
+<div align="left">
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> **MERN stack development**
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20"> I’m currently learning **NEXTJS**
@@ -16,6 +15,9 @@
 - 📫 How to reach me **yasinkhanrabbi1999@gmail.com**
 
 - ⚡ Others Activities **I can play Cricket🏏**
+</div>
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <br>
 
